@@ -1,5 +1,5 @@
-# 💻 🔗 Related Repos
-
+# 💻 🔗 Related Repo
+https://github.com/lugosidomotor/MLOps_app
 
 # ⚠️ Disclaimer
 
